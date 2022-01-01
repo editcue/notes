@@ -4,6 +4,7 @@ theme:
     name: 'material'
     palette:
     highlightjs: true
+    language: 'zh'
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
